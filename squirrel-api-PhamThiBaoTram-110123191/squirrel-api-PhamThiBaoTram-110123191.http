@@ -1,0 +1,6 @@
+@squirrel_api_PhamThiBaoTram_110123191_HostAddress = http://localhost:5279
+
+GET {{squirrel_api_PhamThiBaoTram_110123191_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
